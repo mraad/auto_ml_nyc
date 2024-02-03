@@ -1,0 +1,13 @@
+name: auto_ml_nyc
+channels:
+  - conda-forge
+dependencies:
+  - python>3.10,<3.12
+  - jupyterlab>=4.0.11
+  - ipywidgets
+  - geopandas>0.14.0
+  - xyzservices
+  - autogluon
+  - pygraphviz
+  - pyspark<3.5
+  - pip
