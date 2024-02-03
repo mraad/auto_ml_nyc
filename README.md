@@ -1,4 +1,4 @@
-# AutoML NYC Taxi Trip Duration Prediction
+# On AutoML for NYC Taxi Trip Duration Prediction
 
 Simple project to demo AutoML on NYC taxi trip duration prediction.
 
